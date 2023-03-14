@@ -1,0 +1,4 @@
+variables:
+- team: Divya-newstart
+- admin-user: divya-ci-admin
+- manager-user: divya-ci
